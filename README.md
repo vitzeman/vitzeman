@@ -8,7 +8,7 @@
 
 <h3 align="center">🛠 &nbsp;Languages and Tools</h3>
 
-I’m mostly working with Python and it's libraries such as Numpy, Pytorch, OpenCV and other. Aditionaly I worked with Matlab on mathematics, control theory and image processing. Aditionaly I used C and C++ in robotics classes.
+I’m mostly working with Python and it's libraries such as Numpy, Pytorch, OpenCV and other. Aditionaly I worked with Matlab on mathematics, control theory and image processing. Aditionaly I used C and C++ in robotic classes.
 
 <h3>My contacts:</h3>
 
