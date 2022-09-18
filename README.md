@@ -12,7 +12,7 @@ I’m mostly working with Python and it's libraries such as Numpy, Pytorch, Open
 
 <h3 align="center">🛠 &nbsp;Languages and Tools</h3>
 
-My contacts: [![Linkedin Badge](https://img.shields.io/badge/-zemanvit-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/vít-zeman-302822134)
+My contacts: [![Linkedin Badge](https://img.shields.io/badge/-zemanvit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vít-zeman-302822134)
 
 <!---
 vitzeman/vitzeman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
