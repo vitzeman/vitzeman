@@ -2,7 +2,7 @@
 <h3 align="center">I'm  masters students at CTU FEL </h3>
 
 - I’m currently doing masters in Cybernetics and Robotics from which I have bachelor's degree.
-- I’m interested in computer Vision, machine learning and robotics.
+- I’m interested in computer vision, machine learning and robotics.
 - I worked as intern at CTU CIIRC Testbed for Industry 4.0, where I focused on aplying state-of-the-art alghorithms into showcase robotic cells.
 
 
