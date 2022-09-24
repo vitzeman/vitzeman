@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I am Vít Zeman</h1>
-<h3 align="center">I'm  masters students at CTU FEL </h3>
+<h3 align="center">I'm  master's students at CTU FEL </h3>
 
 - I’m currently doing masters in Cybernetics and Robotics from which I have bachelor's degree.
 - I’m interested in computer vision, machine learning and robotics.
