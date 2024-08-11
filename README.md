@@ -58,4 +58,4 @@ I have completed my Master of Science in Cybernetics and Robotics at the Faculty
 
 <h4 >Personal:</h4> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-vit.zeman.cz@gmail.com-white?style=flat&logo=gmail&logoColor=red)](<mailto:vit.zeman.cz@gmail.com>)
+[![Linkedin Badge](https://img.shields.io/badge/-vit.zeman.cz@gmail.com-orange?style=flat&logo=gmail&logoColor=white)](<mailto:vit.zeman.cz@gmail.com>)
