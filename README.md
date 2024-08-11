@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I am Vít Zeman</h1>
 <!-- <h3 align="center"> </h3> -->
 
-I'm a researcher at [CTU CIIRC Testbed for Industry 4.0](https://ricaip.eu/), where I also interned during my studies.
+I'm a researcher at [CTU CIIRC Testbed for Industry 4.0](https://ricaip.eu/testbed-prague/), where I also interned during my studies.
 My focus is on the usage of computer vision and machine learning in industrial applications.
  
 I have completed my Master of Science in Cybernetics and Robotics at the Faculty of Electrical Engineering, Czech Technical University in Prague, where I also finished my Bachelor’s in the same field.   
