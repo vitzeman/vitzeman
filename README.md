@@ -19,14 +19,14 @@ I have completed my Master of Science in Cybernetics and Robotics at the Faculty
     <img alt="Pytorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
     <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
+</p>
 <h4 align="center">I've also worked with:</h4>
 <p align="center">
     <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
     <img alt="Cpp" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
     <img alt="Julia" src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white" />
     <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-C04C0B?style=for-the-badge&logo=Matlab&logoColor=white" />
-
+</p>
 <h3 align="center">Tools</h3>
 <p align="center">
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
@@ -38,7 +38,7 @@ I have completed my Master of Science in Cybernetics and Robotics at the Faculty
     <!-- <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
      -->
      <img alt="SLURM" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-
+</p>
 
 
 
