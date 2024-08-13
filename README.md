@@ -4,7 +4,7 @@
 I'm a researcher at [CTU CIIRC Testbed for Industry 4.0](https://ricaip.eu/testbed-prague/), where I also interned during my studies.
 My focus is on the usage of computer vision and machine learning in industrial applications.
  
-I have completed my Master of Science in Cybernetics and Robotics at the Faculty of Electrical Engineering, Czech Technical University in Prague, where I also finished my Bachelor’s in the same field.   
+I have completed my Master of Science degree in [Cybernetics and Robotics](https://kyr.fel.cvut.cz/en) at the [Faculty of Electrical Engineering](https://intranet.fel.cvut.cz/en/), [Czech Technical University in Prague](https://www.cvut.cz/en), where I also finished my Bachelor’s in the same field.   
 
 <h3 align="center">Languages</h3>
 
