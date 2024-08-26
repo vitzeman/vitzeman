@@ -82,10 +82,3 @@ I have completed my Master of Science degree in [Cybernetics and Robotics](https
   </a>
 </p>
 
-<h4 align="center">Personal:</h4> 
-
-<p align="center">
-  <a href="mailto:vit.zeman.cz@gmail.com" title="Personal Email">
-    <img src="https://img.shields.io/badge/-vit.zeman.cz@gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="homepage" />
-  </a>
-</p>
