@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Vít Zeman</h1>
 <!-- <h3 align="center"> </h3> -->
 
-![photo](data/zemanvit.jpg)
+
 I am work in Research and Development at [CTU CIIRC Testbed for Industry 4.0](https://ricaip.eu/testbed-prague/), where I also interned during my studies.
 My focus is on the usage of computer vision and machine learning in industrial applications.
  
