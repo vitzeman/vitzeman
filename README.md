@@ -1,10 +1,50 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I am Vít Zeman</h1>
+<h1 align="center">Hi, I’m Vít Zeman</h1>
 <!-- <h3 align="center"> </h3> -->
 
-I do R&D at [CTU CIIRC Testbed for Industry 4.0](https://ricaip.eu/testbed-prague/), where I also interned during my studies.
+![photo](data/zemanvit.jpg)
+I am work in Research and Development at [CTU CIIRC Testbed for Industry 4.0](https://ricaip.eu/testbed-prague/), where I also interned during my studies.
 My focus is on the usage of computer vision and machine learning in industrial applications.
  
 I have completed my Master of Science degree in [Cybernetics and Robotics](https://kyr.fel.cvut.cz/en) at the [Faculty of Electrical Engineering](https://intranet.fel.cvut.cz/en/), [Czech Technical University in Prague](https://www.cvut.cz/en), where I also finished my Bachelor’s in the same field.   
+
+---
+
+<h3 align="center">Contacts & Informations:</h3> 
+
+<h4 align="center">Personal:</h4> 
+
+<p align="center">
+  <a href="https://vitzeman.github.io/data/zeman_vit_cv_eng.pdf" target="_blank" title="CV EN">
+    <img alt="CV EN" src="https://img.shields.io/badge/-CV-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDQzLjkxNiA0My45MTYiIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxnPiA8cGF0aCBkPSJNMzQuMzk1LDBIOS41MjJjLTIuNzYyLDAtNSwyLjIzOS01LDV2MzMuOTE2YzAsMi43NjEsMi4yMzgsNSw1LDVoMjQuODcxYzIuNzYyLDAsNS0yLjIzOSw1LTVWNSBDMzkuMzk1LDIuMjM5LDM3LjE1NCwwLDM0LjM5NSwweiBNOS4yMDgsMTYuODU1YzAtMS4xNzIsMC45NTEtMi4xMjEsMi4xMjEtMi4xMjFoMC43NDJjLTAuNzkxLTAuODc0LTEuMjc3LTIuMDMtMS4yNzctMy4zMDQgYzAtMi43MjMsMi4yMDktNC45MzEsNC45MzItNC45MzFjMi43MjUsMCw0LjkzMiwyLjIwNyw0LjkzMiw0LjkzMmMwLDEuMjcyLTAuNDg2LDIuNDI5LTEuMjc5LDMuMzAzaDAuNzA5IGMxLjE3MiwwLDIuMTIxLDAuOTQ5LDIuMTIxLDIuMTIxdjMuNTc4YzAsMS4xMjItMC44NzUsMi4wMy0xLjk3NSwyLjEwNmgtOS4wNTFjLTEuMS0wLjA3Ni0xLjk3NS0wLjk4NC0xLjk3NS0yLjEwNlYxNi44NTUgTDkuMjA4LDE2Ljg1NXogTTMyLjcwOCwzNy40MTZoLTIxLjVjLTEuMTA0LDAtMi0wLjg5Ni0yLTJzMC44OTYtMiwyLTJoMjEuNWMxLjEwNCwwLDIsMC44OTYsMiwyUzMzLjgxMiwzNy40MTYsMzIuNzA4LDM3LjQxNnogTTMyLjcwOCwyOS45MTZoLTIxLjVjLTEuMTA0LDAtMi0wLjg5Ni0yLTJzMC44OTYtMiwyLTJoMjEuNWMxLjEwNCwwLDIsMC44OTYsMiwyUzMzLjgxMiwyOS45MTYsMzIuNzA4LDI5LjkxNnogTTMyLjcwOCwyMi40MTYgaC02LjVjLTEuMTA0LDAtMi0wLjg5Ni0yLTJjMC0xLjEwNCwwLjg5Ni0yLDItMmg2LjVjMS4xMDQsMCwyLDAuODk2LDIsMkMzNC43MDgsMjEuNTIsMzMuODEyLDIyLjQxNiwzMi43MDgsMjIuNDE2eiIvPiA8L2c+IDwvZz4KDTwvc3ZnPg==&logoColor=black"  />
+  </a>
+  <a href="mailto:vit.zeman.cz@gmail.com" title="Personal Email">
+    <img src="https://img.shields.io/badge/-vit.zeman.cz@gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="homepage" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vít-zeman-302822134" title="LinkedIn">
+    <img alt="Webpage" src="https://img.shields.io/badge/-zemanvit-0072b1?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiNmZmZmZmYiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjMyIDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzlNNi44OCA4LjU2YTEuNjggMS42OCAwIDAgMCAxLjY4LTEuNjhjMC0uOTMtLjc1LTEuNjktMS42OC0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3aDIuNzdaIi8+PC9zdmc+&logoColor=white" />
+  </a>
+ <a href="https://github.com/vitzeman" title="GitHub">
+    <img alt="Github" src="https://img.shields.io/badge/-vitzeman-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0009-0007-9304-9354" title="ORCID">
+    <img alt="ORCID" src="https://img.shields.io/badge/-Vít_Zeman-gray?style=for-the-badge&logo=orcid&logoColor=#A6CE39" />
+  </a>
+</p>
+
+<h4 align="center">Work:</h4>   
+
+<p align="center">
+  <a href="https://ricaip.eu/vit-zeman/" title="Webpage">
+    <img alt="Webpage" src="https://img.shields.io/badge/-Webpage-0065BD?style=for-the-badge&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjgwMHB4IiB3aWR0aD0iODAwcHgiIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDQ5MCA0OTAiIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxwYXRoIGQ9Ik0yNDUsMEMxMDkuNjksMCwwLDEwOS42OSwwLDI0NXMxMDkuNjksMjQ1LDI0NSwyNDVzMjQ1LTEwOS42OSwyNDUtMjQ1UzM4MC4zMSwwLDI0NSwweiBNMzEuNDAxLDI2MC4zMTNoNTIuNTQyIGMxLjE2OSwyNS40MjMsNS4wMTEsNDguNjgzLDEwLjk3OCw2OS41NzJINDguMjMyQzM4Ljg4MywzMDguMjk5LDMzLjE0OCwyODQuODU4LDMxLjQwMSwyNjAuMzEzeiBNMzIwLjU4LDIyOS42ODggYy0xLjE1Mi0yNC42MTMtNC4wNy00Ny45MjctOC4wMi02OS41NzJoNTAuMTkyYzYuNjgxLDIwLjU0NCwxMS4yNjcsNDMuNzEsMTIuNjUsNjkuNTcySDMyMC41OHogTTIwNi4zOCwzMjkuODg1IGMtNC4zMjItMjMuODYzLTYuNDQzLTQ3LjE1Ni02LjgzNi02OS41NzJoOTAuOTEzYy0wLjM5MiwyMi40MTYtMi41MTQsNDUuNzA5LTYuODM3LDY5LjU3MkgyMDYuMzh6IE0yNzYuOTQ4LDM2MC41MSBjLTcuMTgsMjcuNTYzLTE3LjU3Myw1NS42Ni0zMS45NTEsODMuODE4Yy0xNC4zNzYtMjguMTU4LTI0Ljc2Ny01Ni4yNTUtMzEuOTQ2LTgzLjgxOEgyNzYuOTQ4eiBNMTk5Ljk2MSwyMjkuNjg4IGMxLjIxMy0yNC43NTQsNC4zNDMtNDguMDgsOC40OTktNjkuNTcyaDczLjA4YzQuMTU3LDIxLjQ5Miw3LjI4Niw0NC44MTgsOC41LDY5LjU3MkgxOTkuOTYxeiBNMjE1LjM0MiwxMjkuNDkyIGM5LjU3LTM3LjM1OSwyMS4zOTQtNjYuODM1LDI5LjY1Ni04NC45ODNjOC4yNjMsMTguMTQ4LDIwLjA4OCw0Ny42MjQsMjkuNjYsODQuOTgzSDIxNS4zNDJ6IE0zMDYuMDcsMTI5LjQ5MiBjLTkuNzctNDAuNDg3LTIyLjMxNS03My4wMS0zMS42MjctOTQuMDNjMTEuNTczLDguMjM1LDUwLjAyMiwzOC42NzMsNzYuMjUsOTQuMDNIMzA2LjA3eiBNMjE1LjU1MywzNS40NiBjLTkuMzEyLDIxLjAyLTIxLjg1NSw1My41NDQtMzEuNjI0LDk0LjAzMmgtNDQuNjI4QzE2NS41MzIsNzQuMTMsMjAzLjk4NCw0My42OTIsMjE1LjU1MywzNS40NnogTTE3Ny40NCwxNjAuMTE3IGMtMy45NSwyMS42NDUtNi44NjcsNDQuOTU5LTguMDE5LDY5LjU3MmgtNTQuODI4YzEuMzgzLTI1Ljg2MSw1Ljk2OC00OS4wMjgsMTIuNjUtNjkuNTcySDE3Ny40NHogTTgzLjk3NiwyMjkuNjg4SDMxLjQwMSBjMS43NDctMjQuNTQ1LDcuNDgxLTQ3Ljk4NCwxNi44My02OS41NzJoNDYuOTAyQzg5LjEyMiwxODEuMDAyLDg1LjIwNCwyMDQuMjQ2LDgzLjk3NiwyMjkuNjg4eiBNMTE0LjU3NywyNjAuMzEzaDU0LjQyNCBjMC4zNDgsMjIuNDU0LDIuMjM3LDQ1LjcxNiw2LjI0MSw2OS41NzJoLTQ3Ljk4M0MxMjAuNTIxLDMwOS4yODgsMTE1LjkyLDI4Ni4xMTUsMTE0LjU3NywyNjAuMzEzeiBNMTgxLjU4NCwzNjAuNTEgYzcuNTEyLDMxLjE4MywxOC42Nyw2My4wNTQsMzQuNzQ0LDk1LjA1M2MtMTAuODQ3LTcuNzY2LTUwLjI3OC0zOC43ODItNzcuMDEzLTk1LjA1M0gxODEuNTg0eiBNMjczLjYzNSw0NTUuNjMyIGMxNi4wOTQtMzIuMDIyLDI3LjI2Mi02My45MTYsMzQuNzgxLTk1LjEyMmg0Mi41NzVDMzI0LjMzNiw0MTcuMDY4LDI4NC43MzYsNDQ3LjgyNywyNzMuNjM1LDQ1NS42MzJ6IE0zMTQuNzU5LDMyOS44ODUgYzQuMDA1LTIzLjg1Niw1Ljg5NC00Ny4xMTgsNi4yNDEtNjkuNTcyaDU0LjQzNGMtMS4zMTcsMjUuODQ5LTUuODQ0LDQ5LjAxNi0xMi40ODMsNjkuNTcySDMxNC43NTl6IE00MDYuMDUxLDI2MC4zMTNoNTIuNTQ4IGMtMS43NDgsMjQuNTQ1LTcuNDgyLDQ3Ljk4NS0xNi44MzEsNjkuNTcyaC00Ni42OTRDNDAxLjA0MSwzMDguOTk2LDQwNC44ODIsMjg1LjczNiw0MDYuMDUxLDI2MC4zMTN6IE00MDYuMDE5LDIyOS42ODggYy0xLjIyOC0yNS40NDMtNS4xNDYtNDguNjg2LTExLjE1Ny02OS41NzJoNDYuOTA4YzkuMzUsMjEuNTg3LDE1LjA4Myw0NS4wMjYsMTYuODMsNjkuNTcySDQwNi4wMTl6IE00MjUuMzA5LDEyOS40OTJoLTQxLjI0MiBjLTEzLjY4OS0zMi45NzQtMzEuNTM1LTU5LjA1OC00OC4zMjktNzguNDM2QzM3Mi40NzUsNjguMzE2LDQwMy41MTgsOTUuNTk2LDQyNS4zMDksMTI5LjQ5MnogTTE1NC4yNTIsNTEuMDYgYy0xNi43OTIsMTkuMzc4LTM0LjYzNiw0NS40NjEtNDguMzI0LDc4LjQzMkg2NC42OTFDODYuNDgsOTUuNTk4LDExNy41Miw2OC4zMjEsMTU0LjI1Miw1MS4wNnogTTY0LjY5MiwzNjAuNTFoNDAuOTg3IGMxMy40ODIsMzIuNjM3LDMxLjA3Niw1OC42MzQsNDcuNzUyLDc4LjAzNEMxMTcuMDU5LDQyMS4yNjIsODYuMzE4LDM5NC4xNDgsNjQuNjkyLDM2MC41MXogTTMzNi41NzYsNDM4LjU0IGMxNi42NzItMTkuMzk4LDM0LjI2My00NS4zOTUsNDcuNzQyLTc4LjAzaDQwLjk5QzQwMy42ODQsMzk0LjE0NiwzNzIuOTQ1LDQyMS4yNTgsMzM2LjU3Niw0MzguNTR6Ii8+IDwvZz4KDTwvc3ZnPg==&logoColor=white"  />
+  </a>
+  <a href="mailto:vit.zeman@cvut.cz" title="Work Email">
+    <img alt="WorkEmail" src="https://img.shields.io/badge/-vit.zeman@cvut.cz-0065BD?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <h3 align="center">Languages</h3>
 
@@ -34,51 +74,8 @@ I have completed my Master of Science degree in [Cybernetics and Robotics](https
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
     <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=Gitlab&logoColor=white" />
     <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" />
-    <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" />
-    <img alt="SLURM" src="https://img.shields.io/badge/-Slurm-1BAEE9?style=for-the-badge&logo=Sllurm&logoColor=white" />
-    <!-- <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-     -->
-     <img alt="SLURM" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img alt="ROS2" src="https://img.shields.io/badge/-ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white" />
+    <img alt="SLURM" src="https://img.shields.io/badge/-Slurm-1BAEE9?style=for-the-badge&logo=slurm&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
-
-
-
-
-
----
-
-<h3 align="center">Contacts & Informations:</h3> 
-
-<h4 align="center">Personal:</h4> 
-
-<p align="center">
-  <a href="https://vitzeman.github.io/data/zeman_vit_cv_eng.pdf" target="_blank" title="CV EN">
-    <img alt="CV EN" src="https://img.shields.io/badge/-CV-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDQzLjkxNiA0My45MTYiIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxnPiA8cGF0aCBkPSJNMzQuMzk1LDBIOS41MjJjLTIuNzYyLDAtNSwyLjIzOS01LDV2MzMuOTE2YzAsMi43NjEsMi4yMzgsNSw1LDVoMjQuODcxYzIuNzYyLDAsNS0yLjIzOSw1LTVWNSBDMzkuMzk1LDIuMjM5LDM3LjE1NCwwLDM0LjM5NSwweiBNOS4yMDgsMTYuODU1YzAtMS4xNzIsMC45NTEtMi4xMjEsMi4xMjEtMi4xMjFoMC43NDJjLTAuNzkxLTAuODc0LTEuMjc3LTIuMDMtMS4yNzctMy4zMDQgYzAtMi43MjMsMi4yMDktNC45MzEsNC45MzItNC45MzFjMi43MjUsMCw0LjkzMiwyLjIwNyw0LjkzMiw0LjkzMmMwLDEuMjcyLTAuNDg2LDIuNDI5LTEuMjc5LDMuMzAzaDAuNzA5IGMxLjE3MiwwLDIuMTIxLDAuOTQ5LDIuMTIxLDIuMTIxdjMuNTc4YzAsMS4xMjItMC44NzUsMi4wMy0xLjk3NSwyLjEwNmgtOS4wNTFjLTEuMS0wLjA3Ni0xLjk3NS0wLjk4NC0xLjk3NS0yLjEwNlYxNi44NTUgTDkuMjA4LDE2Ljg1NXogTTMyLjcwOCwzNy40MTZoLTIxLjVjLTEuMTA0LDAtMi0wLjg5Ni0yLTJzMC44OTYtMiwyLTJoMjEuNWMxLjEwNCwwLDIsMC44OTYsMiwyUzMzLjgxMiwzNy40MTYsMzIuNzA4LDM3LjQxNnogTTMyLjcwOCwyOS45MTZoLTIxLjVjLTEuMTA0LDAtMi0wLjg5Ni0yLTJzMC44OTYtMiwyLTJoMjEuNWMxLjEwNCwwLDIsMC44OTYsMiwyUzMzLjgxMiwyOS45MTYsMzIuNzA4LDI5LjkxNnogTTMyLjcwOCwyMi40MTYgaC02LjVjLTEuMTA0LDAtMi0wLjg5Ni0yLTJjMC0xLjEwNCwwLjg5Ni0yLDItMmg2LjVjMS4xMDQsMCwyLDAuODk2LDIsMkMzNC43MDgsMjEuNTIsMzMuODEyLDIyLjQxNiwzMi43MDgsMjIuNDE2eiIvPiA8L2c+IDwvZz4KDTwvc3ZnPg==&logoColor=black"  />
-  </a>
-  <a href="mailto:vit.zeman.cz@gmail.com" title="Personal Email">
-    <img src="https://img.shields.io/badge/-vit.zeman.cz@gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="homepage" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/vít-zeman-302822134" title="LinkedIn">
-    <img alt="Webpage" src="https://img.shields.io/badge/-zemanvit-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
- <a href="https://github.com/vitzeman" title="GitHub">
-    <img alt="Github" src="https://img.shields.io/badge/-vitzeman-181717?style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://orcid.org/0009-0007-9304-9354" title="ORCID">
-    <img alt="ORCID" src="https://img.shields.io/badge/-Vít_Zeman-gray?style=for-the-badge&logo=orcid&logoColor=#A6CE39" />
-  </a>
-</p>
-
-<h4 align="center">Work:</h4>   
-
-<p align="center">
-  <a href="https://ricaip.eu/vit-zeman/" title="Webpage">
-    <img alt="Webpage" src="https://img.shields.io/badge/-Webpage-0070ba?style=for-the-badge&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjgwMHB4IiB3aWR0aD0iODAwcHgiIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDQ5MCA0OTAiIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxwYXRoIGQ9Ik0yNDUsMEMxMDkuNjksMCwwLDEwOS42OSwwLDI0NXMxMDkuNjksMjQ1LDI0NSwyNDVzMjQ1LTEwOS42OSwyNDUtMjQ1UzM4MC4zMSwwLDI0NSwweiBNMzEuNDAxLDI2MC4zMTNoNTIuNTQyIGMxLjE2OSwyNS40MjMsNS4wMTEsNDguNjgzLDEwLjk3OCw2OS41NzJINDguMjMyQzM4Ljg4MywzMDguMjk5LDMzLjE0OCwyODQuODU4LDMxLjQwMSwyNjAuMzEzeiBNMzIwLjU4LDIyOS42ODggYy0xLjE1Mi0yNC42MTMtNC4wNy00Ny45MjctOC4wMi02OS41NzJoNTAuMTkyYzYuNjgxLDIwLjU0NCwxMS4yNjcsNDMuNzEsMTIuNjUsNjkuNTcySDMyMC41OHogTTIwNi4zOCwzMjkuODg1IGMtNC4zMjItMjMuODYzLTYuNDQzLTQ3LjE1Ni02LjgzNi02OS41NzJoOTAuOTEzYy0wLjM5MiwyMi40MTYtMi41MTQsNDUuNzA5LTYuODM3LDY5LjU3MkgyMDYuMzh6IE0yNzYuOTQ4LDM2MC41MSBjLTcuMTgsMjcuNTYzLTE3LjU3Myw1NS42Ni0zMS45NTEsODMuODE4Yy0xNC4zNzYtMjguMTU4LTI0Ljc2Ny01Ni4yNTUtMzEuOTQ2LTgzLjgxOEgyNzYuOTQ4eiBNMTk5Ljk2MSwyMjkuNjg4IGMxLjIxMy0yNC43NTQsNC4zNDMtNDguMDgsOC40OTktNjkuNTcyaDczLjA4YzQuMTU3LDIxLjQ5Miw3LjI4Niw0NC44MTgsOC41LDY5LjU3MkgxOTkuOTYxeiBNMjE1LjM0MiwxMjkuNDkyIGM5LjU3LTM3LjM1OSwyMS4zOTQtNjYuODM1LDI5LjY1Ni04NC45ODNjOC4yNjMsMTguMTQ4LDIwLjA4OCw0Ny42MjQsMjkuNjYsODQuOTgzSDIxNS4zNDJ6IE0zMDYuMDcsMTI5LjQ5MiBjLTkuNzctNDAuNDg3LTIyLjMxNS03My4wMS0zMS42MjctOTQuMDNjMTEuNTczLDguMjM1LDUwLjAyMiwzOC42NzMsNzYuMjUsOTQuMDNIMzA2LjA3eiBNMjE1LjU1MywzNS40NiBjLTkuMzEyLDIxLjAyLTIxLjg1NSw1My41NDQtMzEuNjI0LDk0LjAzMmgtNDQuNjI4QzE2NS41MzIsNzQuMTMsMjAzLjk4NCw0My42OTIsMjE1LjU1MywzNS40NnogTTE3Ny40NCwxNjAuMTE3IGMtMy45NSwyMS42NDUtNi44NjcsNDQuOTU5LTguMDE5LDY5LjU3MmgtNTQuODI4YzEuMzgzLTI1Ljg2MSw1Ljk2OC00OS4wMjgsMTIuNjUtNjkuNTcySDE3Ny40NHogTTgzLjk3NiwyMjkuNjg4SDMxLjQwMSBjMS43NDctMjQuNTQ1LDcuNDgxLTQ3Ljk4NCwxNi44My02OS41NzJoNDYuOTAyQzg5LjEyMiwxODEuMDAyLDg1LjIwNCwyMDQuMjQ2LDgzLjk3NiwyMjkuNjg4eiBNMTE0LjU3NywyNjAuMzEzaDU0LjQyNCBjMC4zNDgsMjIuNDU0LDIuMjM3LDQ1LjcxNiw2LjI0MSw2OS41NzJoLTQ3Ljk4M0MxMjAuNTIxLDMwOS4yODgsMTE1LjkyLDI4Ni4xMTUsMTE0LjU3NywyNjAuMzEzeiBNMTgxLjU4NCwzNjAuNTEgYzcuNTEyLDMxLjE4MywxOC42Nyw2My4wNTQsMzQuNzQ0LDk1LjA1M2MtMTAuODQ3LTcuNzY2LTUwLjI3OC0zOC43ODItNzcuMDEzLTk1LjA1M0gxODEuNTg0eiBNMjczLjYzNSw0NTUuNjMyIGMxNi4wOTQtMzIuMDIyLDI3LjI2Mi02My45MTYsMzQuNzgxLTk1LjEyMmg0Mi41NzVDMzI0LjMzNiw0MTcuMDY4LDI4NC43MzYsNDQ3LjgyNywyNzMuNjM1LDQ1NS42MzJ6IE0zMTQuNzU5LDMyOS44ODUgYzQuMDA1LTIzLjg1Niw1Ljg5NC00Ny4xMTgsNi4yNDEtNjkuNTcyaDU0LjQzNGMtMS4zMTcsMjUuODQ5LTUuODQ0LDQ5LjAxNi0xMi40ODMsNjkuNTcySDMxNC43NTl6IE00MDYuMDUxLDI2MC4zMTNoNTIuNTQ4IGMtMS43NDgsMjQuNTQ1LTcuNDgyLDQ3Ljk4NS0xNi44MzEsNjkuNTcyaC00Ni42OTRDNDAxLjA0MSwzMDguOTk2LDQwNC44ODIsMjg1LjczNiw0MDYuMDUxLDI2MC4zMTN6IE00MDYuMDE5LDIyOS42ODggYy0xLjIyOC0yNS40NDMtNS4xNDYtNDguNjg2LTExLjE1Ny02OS41NzJoNDYuOTA4YzkuMzUsMjEuNTg3LDE1LjA4Myw0NS4wMjYsMTYuODMsNjkuNTcySDQwNi4wMTl6IE00MjUuMzA5LDEyOS40OTJoLTQxLjI0MiBjLTEzLjY4OS0zMi45NzQtMzEuNTM1LTU5LjA1OC00OC4zMjktNzguNDM2QzM3Mi40NzUsNjguMzE2LDQwMy41MTgsOTUuNTk2LDQyNS4zMDksMTI5LjQ5MnogTTE1NC4yNTIsNTEuMDYgYy0xNi43OTIsMTkuMzc4LTM0LjYzNiw0NS40NjEtNDguMzI0LDc4LjQzMkg2NC42OTFDODYuNDgsOTUuNTk4LDExNy41Miw2OC4zMjEsMTU0LjI1Miw1MS4wNnogTTY0LjY5MiwzNjAuNTFoNDAuOTg3IGMxMy40ODIsMzIuNjM3LDMxLjA3Niw1OC42MzQsNDcuNzUyLDc4LjAzNEMxMTcuMDU5LDQyMS4yNjIsODYuMzE4LDM5NC4xNDgsNjQuNjkyLDM2MC41MXogTTMzNi41NzYsNDM4LjU0IGMxNi42NzItMTkuMzk4LDM0LjI2My00NS4zOTUsNDcuNzQyLTc4LjAzaDQwLjk5QzQwMy42ODQsMzk0LjE0NiwzNzIuOTQ1LDQyMS4yNTgsMzM2LjU3Niw0MzguNTR6Ii8+IDwvZz4KDTwvc3ZnPg==&logoColor=white"  />
-  </a>
-  <a href="mailto:zemanvit@cvut.cz" title="Work Email">
-    <img alt="WorkEmail" src="https://img.shields.io/badge/-zemanvit@cvut.cz-0070ba?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
